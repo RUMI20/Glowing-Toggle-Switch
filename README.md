@@ -8,4 +8,4 @@ Glowing Toggle Switch Using HTML &amp; CSS
 
 
 ### Switch On
-![Screenshot_20221123_085343](https://user-images.githubusercontent.com/110076050/204437857-6b954cba-8c99-4ef8-b751-acf54dd8a9a9.png)
+![Screenshot_20221129_094604](https://user-images.githubusercontent.com/110076050/204437970-8bd71ac6-5a31-4e93-a9d6-14325c8b242b.png)
